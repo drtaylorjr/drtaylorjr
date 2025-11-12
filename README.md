@@ -1,64 +1,73 @@
 🌟 Donny Taylor Jr — IT & Cybersecurity Portfolio
-<p align="center"> <img src="https://img.shields.io/badge/Windows-Server%202022-0078D4?style=flat-square&logo=windows" /> <img src="https://img.shields.io/badge/Azure-Cloud%20VMs-0082FC?style=flat-square&logo=microsoftazure" /> <img src="https://img.shields.io/badge/Active%20Directory-Management-003366?style=flat-square&logo=microsoft" /> <img src="https://img.shields.io/badge/Tenable-Nessus-0A98C7?style=flat-square&logo=tenable" /> <img src="https://img.shields.io/badge/Microsoft%20Defender-EDR-0067C0?style=flat-square&logo=microsoftdefender" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Cert-Security%2B-red?style=flat-square&logo=comptia" /> <img src="https://img.shields.io/badge/Cert-Network%2B-orange?style=flat-square&logo=comptia" /> <img src="https://img.shields.io/badge/SAFe-Scrum%20Master%206.1-1E90FF?style=flat-square&logo=scrumalliance" /> </p>
-
 👋 About Me
-Driven IT and cybersecurity professional transitioning into tech with hands-on experience building Windows Server, Active Directory, Azure, vulnerability management, and help desk skills.
-I learn by doing — building my own environments, troubleshooting real issues, and documenting labs exactly like a junior sysadmin or SOC analyst would.
-
+I am an aspiring IT and cybersecurity professional with hands-on experience in:
+Windows Server & Active Directory
+Azure virtual machines
+Vulnerability management
+Networking fundamentals
+Help desk and troubleshooting tasks
+I learn by building real environments, solving real problems, and documenting my work like a junior sysadmin or SOC analyst.
 💼 Featured Projects
 🖥️ Windows Server & Active Directory Lab Series
-Practical help desk + sysadmin labs performed on an Azure-hosted Windows Server 2022 VM.
-
-🔗 View Windows Server Labs →
+Hands-on Active Directory and Windows Server labs built in an Azure-hosted Windows Server 2022 environment.
+Repository:
+👉 https://github.com/drtaylorjr/windows-server-labs
 Included Labs
 AD DS Installation & Domain Controller Promotion
 Organizational Units (OUs)
 User Creation & Management
 Password Reset & Unlocking
-Enable/Disable Accounts
+Enable / Disable Accounts
 Security Groups & RBAC
 SMB Shares + NTFS Permissions
-Group Policy (GPO) Setup
+GPO (Group Policy Object) Setup
 Account Lockout Policies
-
 🛡️ Vulnerability Management Program
-End-to-end vulnerability management labs using Nessus concepts: scanning, prioritizing, documenting, and remediation workflows.
-🔗 View Vulnerability Program →
-Covered Topics:
-Vulnerability discovery
-Understanding CVSS
-Building remediation plans
-Writing security reports
-
+A complete vulnerability management workflow using Nessus concepts, covering:
+Vulnerability scanning
+CVSS scoring
+Prioritizing issues
+Remediation planning
+Report building
+Repository:
+👉 https://github.com/drtaylorjr/Vulnerability-Management-Program-
 🧰 Technical Skills Overview
-🖥 Operating Systems
+Operating Systems
 Windows Server 2022
-Windows 10/11
+Windows 10 / 11
 macOS
-
-🛠 Security & Tools
+Security & Administration Tools
 Tenable Nessus
 Microsoft Defender for Endpoint
-Azure Virtual Machines
-AD Users & Computers
-Group Policy Management (GPO)
+Active Directory Users & Computers
+Group Policy Management
+Azure VM management
 Wireshark
-
-🌐 Networking
-TCP/IP
+Networking Skills
+TCP/IP fundamentals
 DNS, DHCP
-ping, tracert, nslookup, ipconfig
-
-🎧 Help Desk Skills
+Troubleshooting with ping, tracert, nslookup, ipconfig
+Help Desk Skills
 Password resets
 Account unlocks
-Remote troubleshooting (RDP)
-Desktop and OS support
-
+RDP troubleshooting
+OS / desktop support
+User management in AD
 📊 GitHub Stats
-<p align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=drtaylorjr&show_icons=true&theme=transparent&border_color=2F80ED" /> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drtaylorjr&layout=compact&theme=transparent&border_color=2F80ED" /> </p> <p align="center"> <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=drtaylorjr&theme=transparent&border=2F80ED" /> </p>
-
+Profile Stats
+Top Languages
+Contribution Streak
 🎓 Certifications
-CompTIA Security+ (2025)
-CompTIA Network+ (2024)
-SAFe Scrum Master 6.1 (2024)
+CompTIA Security+ (Valid through 2028)
+CompTIA Network+ (Valid through 2028)
+SAFe Scrum Master 6.1
+🎯 Career Focus
+Currently targeting roles such as:
+IT Support / Help Desk
+Junior Systems Administrator
+SOC Analyst (Tier 1)
+Cybersecurity Support
+📬 Contact
+Email: drtaylorjr12@gmail.com
+GitHub: https://github.com/drtaylorjr
+Location: Texas — open to remote & hybrid roles

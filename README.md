@@ -7,3 +7,19 @@ I enjoy tackling complex problems and turning them into practical learning exper
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/drtaylorjr/Vulnerability-Management-Program-/blob/main/README.md)**
+
+## 🖥️ Windows Server & Active Directory Labs
+
+Hands-on labs built using Azure-hosted Windows Server 2022. Includes domain controller setup, user management, GPO configuration, and help-desk style tasks.
+
+🔗 **[Windows Server Labs Repository](https://github.com/drtaylorjr/windows-server-labs)**
+
+### Labs Completed
+- AD DS Installation & Domain Controller Promotion  
+- Creating Organizational Units  
+- Creating and Managing Users  
+- Resetting Passwords & Unlocking Accounts  
+- Enabling/Disabling Accounts  
+- Creating Security Groups  
+- Shared Folder & NTFS Permissions  
+- Group Policy Creation (GPO)

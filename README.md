@@ -101,19 +101,6 @@ https://github.com/drtaylorjr/Vulnerability-Management-Program-
 
 ---
 
-# 📊 GitHub Stats (Collapsible)
-
-<details>
-<summary><strong>Click to view GitHub activity</strong></summary>
-
-### Profile Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drtaylorjr&show_icons=true&theme=default)
-
-### Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drtaylorjr&layout=compact&theme=default)
-
-### Contribution Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=drtaylorjr&theme=default)
 
 </details>
 

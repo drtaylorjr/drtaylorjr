@@ -28,8 +28,8 @@ https://github.com/drtaylorjr/windows-server-labs
 - Organizational Units (OUs)  
 - User Creation & Management  
 - Password Reset & Unlocking  
-- Enable / Disable Accounts  
-- Security Groups & RBAC  
+- Enabling & Disabling Accounts  
+- Security Groups & Role-Based Access Control  
 - SMB Shares + NTFS Permissions  
 - Group Policy (GPO) Setup  
 - Account Lockout Policies  
@@ -48,61 +48,48 @@ https://github.com/drtaylorjr/Vulnerability-Management-Program-
 
 ### Topics Covered
 - Vulnerability scanning  
-- CVSS scoring  
-- Prioritization  
+- Understanding CVSS scoring  
+- Prioritizing vulnerabilities  
 - Remediation planning  
-- Security reporting  
+- Reporting & documentation  
 
 </details>
 
 ---
 
-# 🧰 Technical Skills (Tables)
+# 🧰 Technical Skills
 
 ## Operating Systems
-| Skill | Experience |
-|-------|------------|
-| Windows Server 2022 | ⭐⭐⭐⭐ |
-| Windows 10/11 | ⭐⭐⭐⭐ |
-| macOS | ⭐⭐⭐ |
+- Windows Server 2022  
+- Windows 10/11  
+- macOS  
 
 ---
 
 ## Security & Administration Tools
-| Tool / Technology | Skill Level |
-|------------------|-------------|
-| Tenable Nessus | ⭐⭐⭐ |
-| Microsoft Defender for Endpoint | ⭐⭐⭐ |
-| Active Directory Users & Computers | ⭐⭐⭐⭐ |
-| Group Policy Management | ⭐⭐⭐⭐ |
-| Azure VM Deployment | ⭐⭐⭐ |
-| Wireshark | ⭐⭐⭐ |
+- Tenable Nessus  
+- Microsoft Defender for Endpoint  
+- Active Directory Users & Computers  
+- Group Policy Management  
+- Azure Virtual Machine Deployment  
+- Wireshark  
 
 ---
 
 ## Networking Skills
-| Skill | Details |
-|--------|---------|
-| TCP/IP | Subnetting, addressing, troubleshooting |
-| DNS | Querying, fixing resolution issues |
-| DHCP | Lease issues, conflicts |
-| Tools | `ping`, `tracert`, `nslookup`, `ipconfig` |
+- TCP/IP (subnetting, addressing, troubleshooting)  
+- DNS (querying, diagnosis, resolution issues)  
+- DHCP (lease and conflict troubleshooting)  
+- Tools: `ping`, `tracert`, `nslookup`, `ipconfig`  
 
 ---
 
 ## Help Desk Skills
-| Skill | Description |
-|--------|-------------|
-| Password Resets | AD-based reset & unlock workflow |
-| Account Unlocking | Lockout policy understanding |
-| RDP Troubleshooting | VM connectivity, firewall checks |
-| OS/Desktop Support | Windows troubleshooting |
-| User Management | Creating, modifying, disabling, grouping |
-
----
-
-
-</details>
+- Password resets  
+- Account unlocking  
+- RDP troubleshooting (VM connectivity & firewall checks)  
+- OS/Desktop support  
+- User account lifecycle management in Active Directory  
 
 ---
 
